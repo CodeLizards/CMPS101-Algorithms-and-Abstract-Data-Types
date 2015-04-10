@@ -1,0 +1,24 @@
+//------------------------------------------------------
+//README
+//CMPS101
+//Elizabeth Harris
+//elbharri
+//pa4
+//2-27-15
+//----------------------------------------------------------
+
+List.c: List ADT, used by Graph ADT and main fuction(FindPath)
+
+List.h: Header file for the List ADT
+
+Graph.c: Graph ADT, used by main function
+
+Graph.h: Header file for the Graph ADT
+
+GraphTest.c:  Test file for Graph ADT
+
+FindPath.c:  main function
+
+Makefile
+
+README

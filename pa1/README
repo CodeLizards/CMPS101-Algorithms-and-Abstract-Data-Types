@@ -1,0 +1,17 @@
+//elbharri
+//pa1
+//cmps101
+//1-16-15
+//README
+
+README
+
+List.java: Integer List ADT used in program
+
+ListClient.java: Test for List.java
+
+Lex.java: Main program reads in file and sorts array of strings alphabetically using a variation on the insertion sort algorithm 
+
+makefile
+
+

@@ -1,0 +1,31 @@
+// README
+// A readme file for pa3
+// elbharri
+// pa3
+// 2-10-15
+
+ Files Submitted:
+
+ Sparse.java
+ -Main function, client of Matrix.java;
+ -Reads from an input file, calls mathmatic operations on matrix 
+ -prints results to outfile
+
+ Matrix.java
+ -Matrix ADT that performs basic manipulations of matrices
+ -client of List.java
+ 
+ List.java
+ -List ADT that builds and performs basic manipulations of lists
+
+ MatrixTest.java
+ -A test file for the matrix ADT
+
+ ListTest.java
+ -a test file for the List ADT
+
+ Makefile
+ -a simple Makefile
+
+ README
+ -Basic readme listing files submitted 

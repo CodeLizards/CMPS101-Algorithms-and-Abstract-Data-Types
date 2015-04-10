@@ -1,0 +1,19 @@
+//README
+//CMPS101
+//Elizabeth Harris
+//elbharri
+//pa2
+//1-23-15
+
+README
+
+Lex.c__A simple program that reads from a file and sorts words alphabetically into an outfile using insertion sort algorithm variation. 
+
+List.c__A simple list ADT for Lex.c
+
+List.h ___A header file for the List ADT
+
+ListClient.c__A test file for the List ADT
+
+makefile__a makefile for List and Lex
+

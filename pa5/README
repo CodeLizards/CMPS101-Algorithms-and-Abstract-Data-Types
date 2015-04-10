@@ -1,0 +1,31 @@
+//--------------------------------------------------------------
+////README
+////CMPS101
+////Elizabeth Harris
+////elbharri
+////pa5
+////3-13-15
+////---------------------------------------------------------------
+
+README
+
+FindComponents.c
+--main functions that finds all the strongly connected components and prints to outfile
+
+Graph.c
+--Graph ADT modeled after the Graph ADT from pa4 that performs a series of functions on a Graph it creates, including DFS
+
+Graph.h
+--Header File for GraphADT
+
+GraphTest.c
+--A simple test file for the Graph ADT
+
+List.c
+--A List ADT that performs a series of functions on a linked list that it creates
+
+List.h
+--A header file for the List ADT
+
+Makefile
+--a simple makefile for graphClient and FindComponents
